@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ModelsLibrary.Product>
+@inject SignInManager<IdentityUser> _signUser
+@inject UserManager<IdentityUser> _userManager
+@{
+    var user = await _userManager.GetUserAsync(User);
+    var checkUserRole = (await _signUser.UserManager.GetRolesAsync(user)).First() == "Manager";
+    Layout = "~/Views/Shared/_Products.cshtml";
+
+}
+
+<h1>@ViewBag.Title<br/><br/></h1>
+@if (!Model.Any())
+{
+<h3>Nothing to show!</h3>    
+}
+
+<div class="container">
+@foreach (var item in Model) {
+    
+            <div class="card" style="width: 18rem;">
+                @if (@item.Image == null)
+                {
+                   <a asp-action="UploadImage" asp-route-id="@item.ProductId"> <img class="card-img-top" src="~/Img/unknown.png" alt="Default pic"></a>
+                }
+                else
+                {
+                 <a asp-action="UploadImage" asp-route-id="@item.ProductId"><img class="card-img-top" src="@ViewBag.Img[@item.ProductId]" alt="item picture"></a>
+                    
+                }
+        <div class="card-body">
+    <h5 class="card-title">@item.Description</h5>
+                <p class="card-text">
+                    Stocks:&nbsp;&nbsp; &nbsp; &nbsp;     @item.Stock @if (item.Stock == 0)
+                    {
+                        <span>Out of Stock!</span>
+                    }<br>Sell Price:&nbsp; $@item.SellPrice
+                    @if (ViewBag.AllCategories != null)
+                    {
+                        <br>
+
+                        <span>Category:  &nbsp;  @ViewBag.AllCategories[@item.ProdCatId].ProdCat</span>
+                    }
+                </p>
+                
+                <a asp-action="Details" title="Details" asp-route-id="@item.ProductId" ><span class="material-icons info">info</span></a>
+                
+                <a asp-action="Edit" title="Edit product" asp-route-id="@item.ProductId"><span class="material-icons">edit</span></a>
+                
+                <a asp-action="UpdateStocks" title="Edit inventory" asp-route-id="@item.ProductId"><span class="material-icons">inventory</span></a>
+                
+               @if(checkUserRole){
+                <a asp-action="UpdateSellAndBuyPrices" title="Edit prices" asp-route-id="@item.ProductId"><span class="material-icons">attach_money</span></a>
+               }
+                <a asp-action="Delete" title="Delete" asp-route-id="@item.ProductId"><span class="material-icons">delete</span></a>
+</div>
+</div>
+
+}
+
+</div>

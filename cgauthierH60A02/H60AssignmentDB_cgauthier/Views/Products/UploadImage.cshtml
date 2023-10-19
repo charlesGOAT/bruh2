@@ -1,0 +1,42 @@
+﻿@model ModelsLibrary.Product
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Products.cshtml";
+}
+
+<h1>Upload Image</h1>
+
+<h4>@Model.Description</h4>
+<hr />
+<h5>Edit Image</h5>
+<div class="row">
+    <div class="col-md-4">
+        @if (ViewBag.PreviousImage != null)
+        {
+            <img src="@ViewBag.PreviousImage" class="detailImg">
+        }
+        <form asp-action="UploadImage"enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"  ></div>
+            <input type="hidden" asp-for="ProductId" />
+            <input type="file" id="file1" 
+           name="file1" />
+           <span class="error">@ViewData["Message"]</span>
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    @if (@Model.Image != null) {
+        <a asp-action="DeleteImage" asp-route-id="@Model.ProductId">Delete image</a>
+}
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

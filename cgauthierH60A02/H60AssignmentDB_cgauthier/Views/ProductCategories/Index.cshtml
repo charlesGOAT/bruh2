@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ModelsLibrary.ProductCategory>
+
+@{
+    ViewData["Title"] = "Index";
+ Layout = "~/Views/Shared/_ProductCategories.cshtml";
+}
+
+<h1>Categories list</h1>
+
+
+<div class="grid-category" >
+@foreach (var item in Model) {
+      <div class="grid-item">
+                    @if (@item.Image == null)
+                    {
+                        <a asp-action="UploadImage" asp-route-id="@item.CategoryId"> <img class="card-img-top" src="~/Img/unknown.png" alt="Default pic"></a>
+                    }
+                    else
+                    {
+                        <a asp-action="UploadImage" asp-route-id="@item.CategoryId"><img class="card-img-top" src="@ViewBag.Img[@item.CategoryId]" alt="item picture"></a>
+
+                    }
+                @if(item.CategoryId != 1){
+
+                        <h4>@item.ProdCat</h4>  
+                        <a asp-action="Edit" title="Edit category"asp-route-id="@item.CategoryId"><span class="material-icons">edit</span></a>
+                        <a asp-action="Delete" title="Delete" asp-route-id="@item.CategoryId"><span class="material-icons">delete</span></a>
+                        <a asp-action="GetProductsCategory" asp-route-id = "@item.CategoryId" asp-controller = "Products">Products from category</a>
+                    }
+                    else
+                    {
+                        <a asp-action="GetProductsCategory" asp-route-id = "@item.CategoryId" asp-controller = "Products">Products from category</a>
+                    }
+    </div>
+      }
+</div>

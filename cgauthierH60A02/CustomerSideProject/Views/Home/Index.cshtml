@@ -1,0 +1,107 @@
+﻿@model List<Product>
+@{
+    var sortedModel = Model.OrderByDescending(x => x.Created).ToList();
+    var className = "main-grid-item";
+    var titleClassName = "main-product-title";
+    var imageClassName = "main-product-img";
+    var innerDiv = "main-inner-div";
+    ViewData["Title"] = "Home Page";
+}
+<video id="customer" playsinline autoplay muted loop>
+    <source src="~/video/VideoGames.mp4" type="video/mp4">
+
+</video>
+<div>
+    <p id="customer-msg">BUILD GREATNESS</p>
+    <p id="customer-msg2">Explore a variety of products and build the greatest pc</p>
+   <a class="button" asp-action="Index" asp-controller="Products" id="shop-now">Shop Now</a>
+</div>
+
+
+
+
+<div class="product-list">
+    <h3 class="products-header">
+        Newest additions
+    </h3>
+    <div class="grid" id="grid">
+        @for(var i = 0; i<5; ++i){
+            if (i > 0) {
+                className = "grid-item";
+                 titleClassName = "product-title";
+                 imageClassName = "myImg";
+                 innerDiv = "inner-div";
+            }
+
+            <div class="@className">
+                <div class="@innerDiv">
+                    <div>
+                <a asp-action="Details" asp-controller="Products" asp-route-id="@sortedModel[i].ProductId" class="text-white"><h6 class="@titleClassName">@sortedModel[i].Description</h6></a><div class="product-label">Brand: @sortedModel[i].Manufacturer</div><div class="product-label">Price: @sortedModel[i].SellPrice$</div>
+                    </div>
+                @if (sortedModel[i].Image != null)
+                {
+                 <div>
+                    <img class="@imageClassName" src="@ViewBag.OrderedImages[sortedModel[i].ProductId]" />
+                </div>
+                }else{
+                        <div>
+                    <img class="@imageClassName" src="~/Img/unknown.png" />
+                        </div>
+                }
+                </div>
+    </div>
+        }
+      
+    </div>
+</div>
+@{
+    className = "main-grid-item";
+    titleClassName = "main-product-title";
+    imageClassName = "main-product-img";
+    innerDiv = "main-inner-div";
+}
+@*
+<div class="product-list">
+    <h3 class="products-header">
+        Most popular
+    </h3>
+    <div class="grid">
+
+    </div>
+</div>
+*@
+<div class="product-list">
+    <h3 class="products-header">
+        Explore
+    </h3>
+    <div class="grid">
+        @for (var i = 0; i < 5; ++i)
+        {
+            if (i > 0)
+            {
+                className = "grid-item";
+                titleClassName = "product-title";
+                imageClassName = "myImg";
+                innerDiv = "inner-div";
+            }
+            <div class="@className">
+                <div class="@innerDiv">
+                    <div>
+                        <a asp-action="Details" asp-controller="Products" asp-route-id="@Model[i].ProductId" class="text-white"><h6 class="@titleClassName">@Model[i].Description</h6></a><div class="product-label">Brand: @Model[i].Manufacturer</div><div class="product-label">Price: @Model[i].SellPrice$</div>
+                    </div>@if (Model[i].Image != null)
+                {
+                        <div>
+                    <img class="@imageClassName" src="@ViewBag.OrderedImages[Model[i].ProductId]" />
+                        </div>
+                }
+                else
+                {
+                        <div>
+                    <img class="@imageClassName" src="~/Img/unknown.png" />
+                        </div>
+                }
+                </div>
+            </div>
+        }
+    </div>
+</div>

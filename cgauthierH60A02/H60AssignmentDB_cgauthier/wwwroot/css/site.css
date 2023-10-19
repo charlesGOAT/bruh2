@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&family=Quicksand&display=swap');
+
+
+:root {
+    font-family: 'Oxygen', sans-serif !important;
+}
+html {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #181818;
+    color: rgba(238, 238, 238, 0.815);
+    font-family: 'Oxygen', sans-serif !important;
+}
+.form-control {
+    width: 250px;
+}
+
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #888;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #2e2e2e;
+}
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+.my-icon {
+    background-color: transparent;
+    color: rgba(223, 223, 223, 0.815);
+    border: none;
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 24px;
+    cursor: pointer;
+    line-height: inherit;
+}
+#search {
+    position: absolute;
+    transform: translate(-140%,0%);
+    height: 24%;
+    background-color: rgba(142, 4, 197);
+}
+.margin {
+margin-left:15px;
+}
+td,th{
+  color: rgba(238, 238, 238, 0.815);
+}
+nav {background-color: rgb(34, 34, 34);
+ }
+ nav a{
+  color: rgba(223, 223, 223, 0.815);
+   margin-left: 15px;
+   text-decoration: none;
+   font-size:24px
+ }
+ nav a:hover{
+  color: rgba(142, 4, 197, 0.829);
+  
+ }
+.absolute {
+position:absolute;
+color: rgba(142, 4, 197, 0.829);
+}
+
+.float-right {
+  float: right;
+  margin-right: 10%;
+}
+#viking{
+margin-left:auto;
+}
+.brand {
+ float: right;
+ position: relative;
+
+}
+
+.navbar-brand {
+font-size:28px;
+}
+.textForVideo {
+    position: absolute;
+    color: white;
+   top: 45%;
+    font-size: 48px;
+    z-index: 3;
+    margin-left: 50px;
+}
+video {
+    object-fit:cover;
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 0);
+   
+}
+
+
+video .customer{
+    object-fit: cover;
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 50%;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+
+.toast {
+position:absolute;
+bottom:0px;
+right:0px;
+}
+.error {
+    color: #dc3545;
+}
+.textForVideo p {
+font-size:32px
+}
+.card-body {
+    background-color: rgb(34, 34, 34);
+    
+    
+}
+.card{
+  border: none;
+  background-color: #222222;
+  padding:5px;
+}
+.grid-item {
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(34, 34, 34);
+    width:300px
+    
+}
+
+.btn-primary{
+  background-color: rgba(241, 241, 241, 0.925);
+  border-color: transparent;
+  color: black;
+}
+.btn-primary:hover{
+  background-color: rgba(142, 4, 197, 0.829);
+  border-color: transparent;
+  color: white;
+}
+.container {
+    display:grid;
+    grid-template-columns: auto auto ;
+    column-gap:80px;
+    row-gap:100px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    
+}
+
+.grid-category {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   width:50%;
+    column-gap:50px;
+    row-gap: 50px;
+    margin-left:50px;
+    margin-right:50px;
+
+
+    
+}
+
+.grid-account {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    width: 50%;
+    column-gap: 50px;
+    row-gap: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.material-icons {
+    color: rgba(241, 241, 241, 0.925);
+    margin-left: 5px;
+    font-size: 1.5em;
+}
+.material-icons:hover {
+  color: rgba(142, 4, 197, 0.829);
+  
+}
+.card-img-top {
+    object-fit: fill;
+    width:100%;
+    height: 250px;
+}
+.detailImg {
+    width:250px;
+    height:250px;
+
+}
+
+.btn {
+margin-top:15px;
+margin-bottom:10px;
+}
+.link {
+margin-right:5px;
+}
+.column-margin {
+margin-left:5px;
+}
+
+/*Login page*/
+
+.btn-link {
+    color: rgba(223, 223, 223, 0.815);
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 24px;
+    border:none;
+    background-color:transparent;
+}
+    .btn-link:hover {
+        color: rgba(142, 4, 197, 0.829);
+    }
+
+#register-form {
+    color: black;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 15px 25px rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    width: 600px;
+    height: 500px;
+}
+    #register-form .logInput {
+        width: 450px;
+        font-size: 16px;
+        margin-top: 10px;
+        height: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 50px;
+    }
+    #register-form select {
+        width: 450px;
+        font-size: 16px;
+        margin-top: 10px;
+        height: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 50px;
+    }
+    #myform {
+        color: black;
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        box-shadow: 0px 15px 25px rgb(0, 0, 0);
+        background-color: white;
+        border-radius: 10px;
+        text-align: center;
+        width: 400px;
+        height: 600px;
+    }
+
+#myform .logInput {
+width:250px;
+font-size:16px;
+margin-top:10px;
+height:40px;
+margin-left:auto;
+margin-right:auto;
+padding-left:50px;
+}
+
+#login-submit {
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-bottom: 20px;
+
+}
+#myform form {
+margin-top:60px;
+}
+
+.input-icon {
+position:absolute;
+left: 85px;
+margin-top:10px;
+}
+
+.login-title {
+    position:relative;
+    top:10px;
+    margin-bottom: 30px;
+}
+
+#forgot-password {
+    
+   position:relative;
+    border-top: 1px solid grey;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top:10px;
+}
+.customer-container {
+    display: none;
+}
+
+
+@media (min-width: 717px) {
+    html {
+        font-size: 16px;
+    }
+
+    .container {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        column-gap: 60px;
+        row-gap: 100px
+    }
+}

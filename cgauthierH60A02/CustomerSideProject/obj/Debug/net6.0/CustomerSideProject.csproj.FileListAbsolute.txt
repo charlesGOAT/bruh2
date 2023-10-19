@@ -1,0 +1,237 @@
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\appsettings.json
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.staticwebassets.runtime.json
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.exe
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.deps.json
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.runtimeconfig.json
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.pdb
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.csproj.AssemblyReference.cache
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.AssemblyInfoInputs.cache
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.AssemblyInfo.cs
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.csproj.CoreCompileInputs.cache
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.RazorAssemblyInfo.cache
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.RazorAssemblyInfo.cs
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\scopedcss\bundle\CustomerSideProject.styles.css
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\scopedcss\projectbundle\CustomerSideProject.bundle.scp.css
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\refint\CustomerSideProject.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.pdb
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.genruntimeconfig.cache
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\ref\CustomerSideProject.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.csproj.CopyComplete
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\ModelsLibrary.dll
+C:\Users\2043039\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\ModelsLibrary.pdb
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\appsettings.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.staticwebassets.runtime.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.exe
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.deps.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.runtimeconfig.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.pdb
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\ModelsLibrary.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\bin\Debug\net6.0\ModelsLibrary.pdb
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.AssemblyInfo.cs
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.RazorAssemblyInfo.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.RazorAssemblyInfo.cs
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\scopedcss\bundle\CustomerSideProject.styles.css
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\scopedcss\projectbundle\CustomerSideProject.bundle.scp.css
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.csproj.CopyComplete
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\refint\CustomerSideProject.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.pdb
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.genruntimeconfig.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\H60AssignmentDB_cgauthier\CustomerSideProject\obj\Debug\net6.0\ref\CustomerSideProject.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\appsettings.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.staticwebassets.runtime.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.exe
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.deps.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.runtimeconfig.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\CustomerSideProject.pdb
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\ModelsLibrary.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\bin\Debug\net6.0\ModelsLibrary.pdb
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.AssemblyInfo.cs
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.RazorAssemblyInfo.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.RazorAssemblyInfo.cs
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\scopedcss\bundle\CustomerSideProject.styles.css
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\scopedcss\projectbundle\CustomerSideProject.bundle.scp.css
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.csproj.CopyComplete
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\refint\CustomerSideProject.dll
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.pdb
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\CustomerSideProject.genruntimeconfig.cache
+C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\web 6\cgauthierH60A02\CustomerSideProject\obj\Debug\net6.0\ref\CustomerSideProject.dll

@@ -1,0 +1,57 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+    var myUsername = @Model.Input?.Username;
+}
+
+
+
+<video playsinline autoplay muted loop>
+    <source src="~/video/VideoGames.mp4" type="video/mp4">
+
+</video>
+        <section>
+           <div id="myform">
+        <div class="login-title"><h3>@ViewData["Title"]</h3></div>
+            <form id="account" method="post">
+           
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div>
+                <span class="material-symbols-outlined input-icon">
+                    person
+                </span>
+                <input asp-for="Input.Username" class="form-control logInput" autocomplete="username" aria-required="true" placeholder="Username" value="@myUsername" />
+                    
+                    <span asp-validation-for="Input.Username" class="text-danger"></span>
+                </div>
+                <div >
+               <span class="material-symbols-outlined input-icon">
+lock
+</span>
+                <input asp-for="Input.Password" class="form-control logInput" autocomplete="current-password" aria-required="true" placeholder="Password" />
+                    
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                
+             
+                <div>
+                    <button id="login-submit" type="submit" class="btn  btn-primary">Log in</button>
+                </div>
+            <div>
+               
+                <p>
+                    <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
+                </p>
+            </div>
+            </form>
+    </div>
+              
+           
+        </section>
+   
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

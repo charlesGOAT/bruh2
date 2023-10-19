@@ -1,0 +1,39 @@
+﻿@model List<UserDTO>
+@inject SignInManager<IdentityUser> _signInManager
+@inject UserManager<IdentityUser> _userManager
+@{
+    var user =await _userManager.GetUserAsync(User);
+    var checkUserRole = (await _signInManager.UserManager.GetRolesAsync(user)).First() == "Clerk";
+}
+    <h3>All Users</h3>
+    <h4 class="error">@TempData["Error"]</h4>
+
+<div class="grid-account">
+    @foreach (var item in Model)
+    {
+
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">@item.User.UserName</h5>
+                <p class="card-text">
+                        @if(item.Role == "Customer")
+                        {
+                        <span>Name: @item.Customer.FirstName @item.Customer.LastName</span>
+                        }
+                        <br>
+                    Email: @item.User.Email
+                    <br>
+                    Role: @item.Role
+                </p>
+                <a asp-action="Details" asp-route-id="@item.User.UserName"><span class="material-icons info">info</span></a>
+                @if (!checkUserRole || (await _userManager.GetRolesAsync(item.User)).First() != "Manager")
+                {
+                    <a asp-action="Update" asp-route-id="@item.User.Id"><span class="material-icons">edit</span></a>
+                    <a asp-action="Delete" asp-route-id="@item.User.Id"><span class="material-icons">delete</span></a>
+                }
+            </div>
+        </div>
+
+    }
+
+</div>

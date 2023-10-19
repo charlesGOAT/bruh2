@@ -1,0 +1,93 @@
+﻿@model UserDTO
+
+
+<div>
+    <video playsinline autoplay muted loop>
+        <source src="~/video/VideoGames.mp4" type="video/mp4">
+
+    </video>
+    <div id="myform">
+        <div class="login-title">
+            <h3>Edit acccount</h3>
+        </div>
+        <form asp-action="Update" method="post">
+
+            <input type="hidden" asp-for="@Model.User.TwoFactorEnabled" readonly />
+            <input type="hidden" asp-for="@Model.User.EmailConfirmed" readonly />
+            <input type="hidden" asp-for="@Model.User.PasswordHash" readonly />
+            <input type="hidden" asp-for="@Model.User.PhoneNumberConfirmed" readonly />
+            <input type="hidden" asp-for="@Model.User.NormalizedUserName" readonly />
+            <input type="hidden" asp-for="@Model.User.NormalizedEmail" readonly />
+            <input type="hidden" asp-for="@Model.User.ConcurrencyStamp" readonly />
+            <input type="hidden" asp-for="@Model.User.AccessFailedCount" readonly />
+            <input type="hidden" asp-for="@Model.User.LockoutEnabled" readonly />
+            <input type="hidden" asp-for="@Model.User.SecurityStamp" readonly />
+            <input type="hidden" asp-for="@Model.User.LockoutEnd" readonly />
+            <input type="hidden" asp-for="@Model.User.PhoneNumber" readonly />
+            <input type="hidden" asp-for="@Model.User.Id" readonly />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div>
+                <span class="material-symbols-outlined input-icon">
+                    mail
+                </span>
+                <input asp-for="@Model.User.Email" class="form-control logInput" placeholder="Email address" />
+
+                <span asp-validation-for="@Model.User.Email" class="text-danger"> </span>
+            </div>
+            <div>
+                <span class="material-symbols-outlined input-icon">
+                    person
+                </span>
+                <input asp-for="@Model.User.UserName" class="form-control logInput" placeholder="Username" />
+
+                <span asp-validation-for="@Model.User.UserName" class="text-danger">@TempData["error"]</span>
+            </div>
+            <input type="hidden" asp-for="@Model.Role" />
+            <input type="hidden" asp-for="@Model.Customer.CustomerId" />
+            @if (Model.Role == "Customer")
+            {
+                <div id="customer-form">
+                    <div>
+                        <span class="material-symbols-outlined input-icon">
+                            badge
+                        </span>
+                        <input type="text" class="form-control logInput" placeholder="First Name" asp-for="@Model.Customer.FirstName" />
+                        <span asp-validation-for="@Model.Customer.FirstName" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <span class="material-symbols-outlined input-icon">
+                            badge
+                        </span>
+                        <input type="text" class="form-control logInput" placeholder="Last Name" asp-for="@Model.Customer.LastName" />
+                        <span asp-validation-for="@Model.Customer.LastName" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <span class="material-symbols-outlined input-icon">
+                            call
+                        </span>
+                        <input type="text" class="form-control logInput" placeholder="Phone Number" asp-for="@Model.Customer.PhoneNumber" />
+                        <span asp-validation-for="@Model.Customer.PhoneNumber" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <span class="material-symbols-outlined input-icon">
+                            home
+                        </span>
+
+                        <select asp-for="@Model.Customer.Province" class="form-control dropdown-custom logInput" asp-items="@new SelectList(Enum.GetValues(typeof(Customer.Provinces)))">
+                        </select>
+                        <span asp-validation-for="@Model.Customer.Province" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <span class="material-symbols-outlined input-icon">
+                            credit_card
+                        </span>
+                        <input type="text" class="form-control logInput" placeholder="Credit card" asp-for="@Model.Customer.CreditCard" />
+                        <span asp-validation-for="@Model.Customer.CreditCard" class="text-danger"></span>
+                    </div>
+                </div>
+            }
+            <button id="login-submit" type="submit" class="btn btn-primary">Update</button>
+        </form>
+        <a class="text-center" asp-action="Delete" asp-route-id=@Model.User.Id>Delete Account</a>
+    </div>
+</div>

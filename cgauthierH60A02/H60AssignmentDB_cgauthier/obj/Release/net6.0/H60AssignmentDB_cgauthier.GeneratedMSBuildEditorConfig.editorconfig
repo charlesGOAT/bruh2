@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = H60AssignmentDB_cgauthier
+build_property.RootNamespace = H60AssignmentDB_cgauthier
+build_property.ProjectDir = C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\H60AssignmentDB_cgauthier\H60AssignmentDB_cgauthier\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\charl\OneDrive - cegep-heritage.qc.ca\Desktop\SchoolWork\H60AssignmentDB_cgauthier\H60AssignmentDB_cgauthier
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/ProductCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/ProductCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/ProductCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/ProductCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/ProductCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Products/UpdateSellAndBuyPrices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlU2VsbEFuZEJ1eVByaWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Products/UpdateStocks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlU3RvY2tzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Products/UploadImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBsb2FkSW1hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Shared/_ProductCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0Q2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Shared/_Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/charl/OneDrive - cegep-heritage.qc.ca/Desktop/SchoolWork/H60AssignmentDB_cgauthier/H60AssignmentDB_cgauthier/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mgo2pt9t77

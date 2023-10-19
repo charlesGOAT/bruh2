@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ModelsLibrary.Product>
+@{
+    Layout = "~/Views/Shared/_Products.cshtml";
+
+}
+
+<h1>@ViewBag.Title<br/><br/></h1>
+@if (!Model.Any())
+{
+<h3>Nothing to show!</h3>    
+}
+
+<div class="container">
+@foreach (var item in Model) {
+    
+            <div class="card" style="width: 18rem;">
+                @if (@item.Image == null)
+                {
+                    <img class="card-img-top" src="~/Img/unknown.png" alt="Default pic">
+                }
+                else
+                {
+               <img class="card-img-top" src="@ViewBag.Img[@item.ProductId]" alt="item picture">
+                    
+                }
+        <div class="card-body">
+    <h5 class="card-title">@item.Description</h5>
+                <p class="card-text">
+                    Stocks:&nbsp;&nbsp; &nbsp; &nbsp;     @item.Stock @if (item.Stock == 0)
+                    {
+                        <span>Out of Stock!</span>
+                    }<br>Sell Price:&nbsp; $@item.SellPrice
+                    
+                        <br>
+
+                        <span>Category:  &nbsp;  @ViewBag.AllCategories[@item.ProdCatId].ProdCat</span>
+                    
+                </p>
+                
+                <a asp-action="Details" title="Details" asp-route-id="@item.ProductId" ><span class="material-icons info">info</span></a>
+                
+</div>
+</div>
+
+}
+
+</div>
